@@ -1,0 +1,55 @@
+.provide-container {
+    margin-top: 105px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-left: 12.5rem;
+    margin-right: 11rem;
+}
+
+
+.provide-img img {
+    width: 35vw;
+    height: 500px;
+}
+
+
+
+.provide-head {
+    font-weight: 500;
+    font-size: 38.4439px;
+    color: #0B132A;
+    margin-top: 50px;
+
+}
+
+.provide-desc {
+    color: #4F5665;
+    margin-top: 25px;
+    font-weight: 400;
+
+}
+
+.provide-list {
+    margin-top: 25px;
+
+}
+
+.provide-list li {
+    margin-top: 17px;
+    color: #4F5665;
+    list-style: none;
+    margin-left: 0px;
+}
+
+.tick {
+    display: flex;
+    align-items: center;
+}
+
+.tick img {
+    margin-right: 20px;
+
+
+
+}

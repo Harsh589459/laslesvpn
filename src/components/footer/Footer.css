@@ -1,0 +1,59 @@
+.f-container {
+    display: flex;
+    margin-left: 14rem;
+    margin-right: 11rem;
+    justify-content: space-between;
+}
+
+.logo {
+    height: 2rem;
+}
+
+.desc {
+    font-weight: 400;
+    color: #4F5665;
+    margin-top: 1rem;
+    font-size: 0.8rem;
+}
+
+.desc span {
+    font-weight: 500;
+}
+
+.f-img {
+    margin-top: 1rem;
+}
+
+.f-img img {
+    margin: 0.5rem;
+    height: 1.6rem;
+    background: #ffffff !important;
+    border-color: #ffffff !important;
+}
+
+.trademark {
+    color: #AFB5C0;
+    font-weight: 400;
+    font-size: 0.9rem;
+}
+
+.trademark span {
+    font-weight: 500;
+}
+
+.column {
+    font-weight: 500;
+}
+
+ul {
+    padding-left: 0px;
+}
+
+li {
+    list-style: none;
+    padding-left: 0px;
+    color: #4F5665;
+    padding-bottom: 1rem;
+    font-size: 0.8rem;
+    font-weight: 400;
+}

@@ -1,0 +1,38 @@
+.uls-container {
+    display: flex;
+    height: 93.97px;
+    margin-top: 60.4px;
+    margin-left: 12.5rem;
+    padding-left: 34.2px;
+    margin-right: 11rem;
+    justify-content: space-between;
+    align-items: center;
+    color: #4F5665;
+    border-radius: 4.69826px;
+    padding: 25px 0px;
+    box-shadow: 0px 5px 5px #888888;
+
+}
+
+.user {
+    display: flex;
+    padding: 15px 151px 42px 155px;
+    border-right: 1.94px solid #EEEFF2 !important;
+}
+
+.location {
+    display: flex;
+    padding: 15px 71px 42px 5px;
+
+
+}
+
+.server {
+    display: flex;
+    padding: 15px 171px 42px 150px;
+
+    border-left: 1.94px solid #EEEFF2 !important;
+
+
+
+}

@@ -1,0 +1,31 @@
+.want-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 97.14px;
+}
+
+.want-left {
+    margin-left: 12.5rem;
+}
+
+.want-bold {
+    font-weight: 500;
+    font-size: 30;
+}
+
+.want-button {
+    margin-top: 37.49px;
+    width: 227.46px;
+    height: 48.19px;
+    background: #F53838;
+    border: none;
+    border-radius: 4.69826px;
+    font-weight: 700;
+    color: #FFFFFF;
+    box-shadow: 0px 11px 8px #F5383859;
+}
+
+.want-right {
+    padding: 0;
+}

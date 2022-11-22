@@ -1,0 +1,66 @@
+.card-container {
+    margin-top: 2rem;
+    display: flex;
+    margin-left: 12.5rem;
+    margin-right: 11rem;
+    max-width: 90vw;
+    overflow: hidden;
+}
+
+.card {
+    border: 2px solid #DDDDDD;
+    margin: 2rem;
+    width: 32rem !important;
+    height: 13rem;
+    border-radius: 10px;
+
+}
+
+.card-main {
+    display: flex;
+    padding: 1rem 0 1rem 1rem;
+}
+
+.card-img img {
+    height: 2.2rem;
+}
+
+.card-name {
+    font-weight: 500;
+    margin-left: 1rem;
+}
+
+.loc {
+    color: #4F5665;
+    font-weight: 400;
+    font-size: 0.8rem;
+
+}
+
+.card-rate {
+    margin-right: 0rem;
+    margin-left: 4rem;
+    font-weight: 400;
+}
+
+.card-rate img {
+    height: 0.7rem;
+    margin-left: 0.8rem;
+    margin-top: 1rem;
+}
+
+.card-content {
+    display: flex;
+    align-items: center;
+    padding: 1rem;
+    color: black;
+    font-weight: 400;
+    font-size: 0.8rem;
+    line-height: 2;
+}
+
+.card:hover {
+    background-color: #ffffff;
+    border-color: #F53838;
+
+}

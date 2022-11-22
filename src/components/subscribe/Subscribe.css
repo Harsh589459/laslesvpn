@@ -1,0 +1,34 @@
+.sub-container {
+    margin-top: 3rem;
+    margin-right: 11rem;
+    margin-left: 14.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #ffffff;
+    box-shadow: 5px 5px 5px 1px #828da7;
+    margin-bottom: 4rem;
+    padding: 3rem;
+}
+
+.sub-heading {
+    margin-left: 1.5rem;
+    font-weight: 500;
+    font-size: 2rem;
+}
+
+.sub-sheading {
+    font-weight: 400;
+    font-size: 0.9rem;
+    margin-top: 0.6rem;
+    color: #4F5665;
+}
+
+.sub-btn {
+    padding: 1rem 2rem;
+    font-weight: 700;
+    color: #ffffff;
+    background: #F53838;
+    border: none;
+    border-radius: 5px;
+}

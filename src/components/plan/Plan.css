@@ -1,0 +1,101 @@
+.plan-container {
+    margin-top: 100px;
+    margin-left: 12.5rem;
+    margin-right: 11rem;
+}
+
+.plan-content {
+    text-align: center;
+}
+
+.plan-heading {
+    color: #0B132A;
+    font-size: 35px;
+    font-weight: 500;
+}
+
+.plan-subheading {
+    color: #4F5665;
+    margin-top: 15px;
+    font-size: 20px
+}
+
+.plan-boxes {
+    display: flex;
+    margin: 4rem 0;
+    gap: 4rem;
+}
+
+.box {
+    border: 1px solid #DDDDDD;
+    border-radius: 7px;
+}
+
+.box:hover {
+    border: 2px solid #F53838;
+    transition: all 0.3s;
+}
+
+.box img {
+    width: 15rem;
+    padding: 51px 51px 30px 51px;
+
+}
+
+.head {
+    font-weight: 500;
+    font-size: 1rem;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.list {
+    padding-left: 5rem;
+    color: #4F5665;
+    list-style: none;
+    margin-bottom: 10rem;
+}
+
+.list li {
+    margin-bottom: 1rem;
+}
+
+.list li img {
+    width: 0.8rem;
+    height: 0.8rem;
+    padding: 0px 2rem 0 0;
+}
+
+.box-bottom {
+    text-align: center;
+    padding-bottom: 4rem;
+}
+
+.box-end {
+    margin-bottom: 1.5rem;
+    font-weight: 500;
+    font-size: 1.7rem;
+}
+
+.box-end span {
+    font-weight: 400;
+    color: #4F5665;
+}
+
+.btn {
+    color: #F53838;
+    border-color: #F53838;
+    background-color: #ffffff;
+    font-weight: 700;
+    font-size: 1rem;
+    padding: 0.5rem 3.5rem;
+    border-radius: 25px;
+}
+
+.btn:hover {
+    background-color: #F53838;
+    color: white;
+    transition: all 0.3s;
+    box-shadow: 0px 15px 15px -6px #F5383859;
+
+}

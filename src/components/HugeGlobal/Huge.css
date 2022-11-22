@@ -1,0 +1,44 @@
+.huge-container {
+    margin-top: 10rem;
+    margin-left: 12.5rem;
+    margin-right: 11rem;
+}
+
+.huge-heading {
+    text-align: center;
+    font-weight: 500;
+    font-size: 2.5rem;
+    color: #0B132A;
+
+}
+
+.huge-subheading {
+    text-align: center;
+    color: #4F5665;
+    font-weight: 400;
+    margin-top: 1.5rem;
+    margin-bottom: 10rem;
+}
+
+.huge-subheading span {
+    font-weight: 500;
+}
+
+
+
+.huge-map img {
+    height: 70vh;
+
+}
+
+.huge-sites {
+    margin-top: 4rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+}
+
+.huge-sites img {
+    height: 8rem;
+}

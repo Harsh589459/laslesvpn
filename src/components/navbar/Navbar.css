@@ -1,0 +1,47 @@
+.nav-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 27.54px;
+}
+
+.nav-heading {
+    margin-left: 12.5rem;
+}
+
+.nav-heading img {
+    height: 2rem;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-between;
+    gap: 18.79px;
+    list-style-type: none;
+    cursor: pointer;
+    font-weight: 400;
+    color: #4F5665;
+
+}
+
+.nav-right {
+    margin-right: 15rem;
+    display: flex;
+    gap: 14.09px;
+}
+
+.nav-signin {
+    font-weight: 500;
+    padding: 6.11px;
+    cursor: pointer;
+
+}
+
+.nav-signup {
+    padding: 6.11px 21.14px;
+    font-weight: 500;
+    color: #F53855;
+    border: 0.469826px solid #F53855;
+    border-radius: 23.4913px;
+    cursor: pointer;
+}
